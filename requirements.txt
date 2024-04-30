@@ -1,3 +1,4 @@
 flywheel-sdk
 flywheel_gear_toolkit
 pycap
+git+https://github.com/poldracklab/wbhi-utils.git
